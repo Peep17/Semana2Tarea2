@@ -1,0 +1,7 @@
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\bin\Debug\Semana3-Ejercicio1.exe.config
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\bin\Debug\Semana3-Ejercicio1.exe
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\bin\Debug\Semana3-Ejercicio1.pdb
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\obj\Debug\Semana3-Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\obj\Debug\Semana3-Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\obj\Debug\Semana3-Ejercicio1.exe
+C:\Users\JeremyCieza\source\repos\Semana3-Ejercicio1\Semana3-Ejercicio1\obj\Debug\Semana3-Ejercicio1.pdb
